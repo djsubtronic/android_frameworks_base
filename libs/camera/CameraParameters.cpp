@@ -337,6 +337,8 @@ const char CameraParameters::KEY_MIN_SATURATION[] = "saturation-min";
 const char CameraParameters::KEY_MAX_SATURATION[] = "max-saturation";
 #endif
 
+const char CameraParameters::KEY_SINGLE_ISP_OUTPUT_ENABLED[] = "single-isp-output-enabled";
+
 //Values for DENOISE
 const char CameraParameters::DENOISE_OFF[] = "denoise-off";
 const char CameraParameters::DENOISE_ON[] = "denoise-on";
